@@ -1,3 +1,3 @@
 # heaven
 tells something
-new
+new thing
